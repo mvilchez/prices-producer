@@ -7,15 +7,10 @@
         <artifactId>firefly-core-microservice-parent</artifactId>
         <version>1.5.15.RELEASE</version>
     </parent>
-    <groupId>es.eci.firefly</groupId>
     <artifactId>prices-producer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>prices-producer</name>
     <description>Prices producer Kafka demo project</description>
-
-    <properties>
-        <lombok.version>1.18.10</lombok.version>
-    </properties>
 
     <dependencies>
         <dependency>
